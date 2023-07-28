@@ -1,9 +1,4 @@
-print ("H")
-print ("e")
-print ("l")
-print ("l")
-print ("o")
-print ("C")
-print ("T")
-print ("Y")
-print ("!")
+for c in "Hello CTY!":
+    print (c)
+for (i) in range (1,11):
+    print (i)
